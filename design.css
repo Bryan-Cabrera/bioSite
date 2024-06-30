@@ -46,3 +46,20 @@ header{
     background-color: #DE5D61;
     color: white;
 }
+
+footer{
+    background-color: #f1f1f1;
+    text-align: center;
+    padding 10px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%
+}
+footer a{
+    color: #000;
+    text-decoration: none;
+}
+footer a:hover{
+    text-decoration: underline;
+}
