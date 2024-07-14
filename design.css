@@ -62,7 +62,7 @@ header{
     height: auto;
     border-radius: 5px;
 }
-.hobby-item p{
+.hobby-item p, .about-item p{
     margin-top: 10px;
     color: #666;
 }
